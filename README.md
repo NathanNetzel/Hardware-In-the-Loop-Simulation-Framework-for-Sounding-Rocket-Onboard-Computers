@@ -142,7 +142,7 @@ A LabVIEW graphical interface provides:
 
 ## Block Diagram
 
-![HIL Architecture](Images/HIL_Block_Diagram.JPG)
+![HIL Architecture](Images/HIL_Block_Diagram.jpg)
 
 *Figure 1 – Overview of the Hardware-In-the-Loop simulation architecture.*
 
@@ -187,7 +187,7 @@ The onboard computer interacts with the emulator exactly as it would with real s
 # 🖼️ Hardware Photos
 
 | Laboratory Setup               | Wiring Interface                 |
-| ------------------------------ | -------------------------------- | -------------------------------- |
+| ------------------------------ | -------------------------------- | 
 | ![Setup](Images/HIL_SETUP.jpg) | ![Wiring](Images/HIL_WIRING.jpg) | 
 
 *Figure 3 – Hardware used during Hardware-In-the-Loop validation campaigns.*
