@@ -1,4 +1,4 @@
-#Hardware-In-the-Loop-Simulation-Framework-for-Sounding-Rocket-Onboard-Computers
+# Hardware-In-the-Loop-Simulation-Framework-for-Sounding-Rocket-Onboard-Computers
 
 This repository serves as a documentation hub for the development of a **Hardware-In-the-Loop (HIL) validation framework** for sounding rocket onboard computers.
 
@@ -142,7 +142,7 @@ A LabVIEW graphical interface provides:
 
 ## Block Diagram
 
-![HIL Architecture](Images/HIL_Block_Diagram.png)
+![HIL Architecture](Images/HIL_Block_Diagram.JPG)
 
 *Figure 1 – Overview of the Hardware-In-the-Loop simulation architecture.*
 
@@ -178,7 +178,7 @@ The onboard computer interacts with the emulator exactly as it would with real s
 
 ## Workflow Diagram
 
-![HIL Workflow](Images/HIL_Workflow.png)
+![HIL Workflow](Images/HIL_Workflow.jpg)
 
 *Figure 2 – Hardware-In-the-Loop validation workflow.*
 
@@ -188,7 +188,7 @@ The onboard computer interacts with the emulator exactly as it would with real s
 
 | Laboratory Setup               | Wiring Interface                 |
 | ------------------------------ | -------------------------------- | -------------------------------- |
-| ![Setup](Images/HIL_SETUP.JPG) | ![Wiring](Images/HIL_WIRING.JPG) | 
+| ![Setup](Images/HIL_SETUP.jpg) | ![Wiring](Images/HIL_WIRING.jpg) | 
 
 *Figure 3 – Hardware used during Hardware-In-the-Loop validation campaigns.*
 
@@ -216,7 +216,7 @@ Future versions may include:
 
 The LabVIEW graphical interface provides real-time telemetry visualization, simulation control, flight-state monitoring, and flash memory retrieval.
 
-![LabVIEW Interface](Images/HIL_LabVIEW_UI.png)
+![LabVIEW Interface](Images/HIL_LabVIEW_UI.jpg)
 
 *Figure 4 – LabVIEW graphical interface used for telemetry visualization and flash memory retrieval.*
 
@@ -252,7 +252,7 @@ Across all evaluated cases, apogee detection remained below one second, demonstr
 
 ## Example Validation Results
 
-![Validation Results](Images/HIL_Validation_Results.png)
+![Validation Results](Images/HIL_Validation_Results.jpg)
 
 *Figure 5 – Example Hardware-In-the-Loop simulation showing acceleration, angular velocity, altitude, and flight-state transitions.*
 
